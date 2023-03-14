@@ -1,5 +1,9 @@
 # Airplane-Saga
 
+
+[Play Game](https://airplane-chi.vercel.app/)
+
+
 It's a game where user have to protect different things like Oil Platform, Air Ship or Ruins in the open ocean or sky from the moving explosive mines by killing those mines using upgradable airplane.
 
 User will be rewarded in Gold Tokens after completing the task. User can also buy Diamond tokens if they want too. Tokens can be used to buy Airplane skins, engines, machine guns, missiles and nitros to upgrade the airplane.
